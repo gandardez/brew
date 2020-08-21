@@ -124,7 +124,7 @@ GEM
       sorbet-static (= 0.5.5869)
     sorbet-runtime (0.5.5869)
     sorbet-static (0.5.5869-universal-darwin-14)
-    tapioca (0.4.1)
+    tapioca (0.4.3)
       parlour (>= 2.1.0)
       pry (>= 0.12.2)
       sorbet-runtime
